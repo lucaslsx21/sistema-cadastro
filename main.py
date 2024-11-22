@@ -1,3 +1,4 @@
+from flask import app
 import flet as ft
 import sqlite3
 from datetime import datetime
@@ -359,3 +360,4 @@ def main(page: ft.Page):
     TaskManagementSystem(page)
 
 ft.app(target=main)
+server = app.server
