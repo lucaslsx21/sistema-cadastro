@@ -67,7 +67,7 @@ Configurações para realizar o deploy:
 [Link da Aplicação](https://www.youtube.com/watch?v=e6VTLG9wnSQ&t=1047s)
 
 ## Video
-Uploading Sistema de Cadastro.mp4…
+https://github.com/user-attachments/assets/f19b4202-3beb-4fc9-90bf-1c8e6d9c207d
 
 ## Contribuições
 
